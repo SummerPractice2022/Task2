@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SummerPractice2022</string>
+    <string name="title_music">Музыка</string>
+    <string name="title_video">Видео</string>
+    <string name="title_home">Главная</string>
+    <string name="title_photo">Фото</string>
+    <string name="title_settings">Настройки</string>
+    <string name="title_result">Результат</string>
+</resources>
